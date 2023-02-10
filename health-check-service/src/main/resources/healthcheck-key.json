@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthcheck-service",
+  "private_key_id": "145af2ce73a368350f87eba9a60da35a7507acad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDB9oEJz4uA8dYP\nwBvAeoz9N9QIKUgi5oCsFarQM5kK1CsjBJf79wjjoA2W8VudErOGqIQGVgyYbXfi\nTmoPJYxMcq5oiGPHZIoMP2UDwU0Kf0louhysVRGS/iL4EpsS1V7LTN3Mgfb9NKfr\nl1EMYS6kFYNEwj2l3U/n16mBalZMLvjjZpuNPNtqOF9R0aQnNRtLdx7nxzC8UgOL\nkOz6nxlqFPTxeAnIOAwiXRHcdzmtDuXz0grogXcpOZ+ZCULQmWblQd0vpNM1hRh3\ng7N+1QvbsCa6BB/IH/DUcEDN6G4/LijIuH6YNYqFHiFgxi/NvZvP8TC4q7Jq44ta\nW7M9KUDZAgMBAAECggEAKVFyVA1w/Ycmz0SgdMx2Z8OiiJmIqxyYqO/VqxPuxFqF\nlOhX2v4ZF+pCstaX6jovYZ5Yv4PJm5foK56CI9dfD3L3mb+CJ9nQOYMwqM/e8j9C\nu0s4K/LUM1CtUNSf0a9/ycWGUxgVbgNvSPW7N2ylU6FcjQNmwARIzw3HJ1EocIJK\njvX8iDcKibDTLYOa1VXDivqKh/Bo0eoS4+FUFnuvY7I5jqwnk4jJPx24J724g6zK\nPQBy4xlE4uNkKakIFejNLFj/zuoxNEeuI4ewBEW5sNOypI9fpnJ6fbaJ9OedvsTq\nL8FFCMZ8VuQUfZfoH7+G4ur0w5CTnnO9Yw6g/gMG3QKBgQD5BFyomjNM6ho9rFzn\n8EgDd5+VEtGfOL4iPG7w42tkbo5PqEVnQatHi2QE/DbL16u0ReF7NOf80qR4T5nJ\n6OjJ2y/jVODUGC336MH39Vyx9Wrw9ax4KDsQ17nYUjbrFf3q+wbnwXDy96azUhdD\nKk6e9OL2sFXlMMhqlWXEIms8XQKBgQDHZuuzunrOgatxvcG1RT226CKQh6V9cn1J\nq834HWwkTNqFA7STimq8/aSd2saWgdew/3e7G/eML7+pnfTz7zlUNMUGpp6Re2cZ\nrWfnGPoCUgfPCHgW3GGa7j1Jz4+95ZTELxnvlvyJVZz1gYRPOs3BjxxVcjiiExnV\nZyb5ya/urQKBgA8Vpo9IGAd2vvQxdsdOFO6w1mfvZedhRpNIWegZvq2szM4igWHJ\n5phE52At7xvWCr625PvTrqHwGKp5F/XVOBTSREpfH+d5N3+nB+j/Yggdt8a0+yek\nOD/C8a0a/dyrzl/nqPltDGyLd/uw41vcOjsC1qTe9bUWiW17c1i4RQq5AoGAd0Qx\nEMQmNiRLBnIoTaMHocJBAk+QBXOYSptPS+tVRnUNcuffdywgYcAYWS6E/3rUJxL2\na1zz+M6KhgprfAgHMz2I50x7paq45RvZ/NjsmLy13PhE0++nFcMPt3lFkaCjFaDS\nk4Kss/wYMKPyHm2eqfpOSTFTfGWOWx0iq98dstUCgYB0KpPb//HzzFqXIH9/76p7\nnoc/vqfQqw/DeJ3VaSmhD270w4kqAsG3m0Y3/4rHVxBRxMWMOz4+QMyp1yHPKdrz\n5L7+fE+r5KrYE5RCU6Zx21Li45F2gSRFVxXYzaBKZFf4LclqgL9BVNeaHuT5x5M6\nYneP5fAMHa0tCxLYDbq5nw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pub-sub@healthcheck-service.iam.gserviceaccount.com",
+  "client_id": "115253886107015149102",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pub-sub%40healthcheck-service.iam.gserviceaccount.com"
+}
